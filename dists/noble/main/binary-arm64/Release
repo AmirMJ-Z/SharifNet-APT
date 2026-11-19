@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: SharifNet
+Label: SharifNet
+Architecture: arm64
+Description: Official SharifNet APT Repository

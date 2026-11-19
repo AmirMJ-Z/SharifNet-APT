@@ -1,0 +1,8 @@
+Origin: SharifNet
+Label: SharifNet
+Suite: stable
+Codename: noble
+Architectures: amd64 arm64
+Components: main
+Description: Official SharifNet APT Repository
+SignWith: E6FBB3C393D43D4E91D4102896947D05997FA734

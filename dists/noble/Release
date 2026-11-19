@@ -1,0 +1,29 @@
+Origin: SharifNet
+Label: SharifNet
+Suite: stable
+Codename: noble
+Date: Thu, 19 Nov 2026 15:32:54 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Official SharifNet APT Repository
+MD5Sum:
+ 7d24160f7832daa5af561b36fae54781 656 main/binary-amd64/Packages
+ a8a62dd21c3236ca60f854151998b503 449 main/binary-amd64/Packages.gz
+ 7c4fa7573e739303e003b8ac77cffcb6 134 main/binary-amd64/Release
+ 7d24160f7832daa5af561b36fae54781 656 main/binary-arm64/Packages
+ a8a62dd21c3236ca60f854151998b503 449 main/binary-arm64/Packages.gz
+ 7362457d8f93b042b661f16e157b31b4 134 main/binary-arm64/Release
+SHA1:
+ bcb0e245b09d062526f8568d56ab2e61167bfb2d 656 main/binary-amd64/Packages
+ 0ebba72269bb33edcabfb92066ed541faf1b2aac 449 main/binary-amd64/Packages.gz
+ dc2f7c37607846b1a0aa0c94e9e61bed0f4dd489 134 main/binary-amd64/Release
+ bcb0e245b09d062526f8568d56ab2e61167bfb2d 656 main/binary-arm64/Packages
+ 0ebba72269bb33edcabfb92066ed541faf1b2aac 449 main/binary-arm64/Packages.gz
+ 7d3814a5b953d7858d50a3240849a42330a5b637 134 main/binary-arm64/Release
+SHA256:
+ e5f2ac93a8661a7745a16aa1102342d204e535a063709d7b7fe15ae2ddbb6078 656 main/binary-amd64/Packages
+ 9728f2b0533c2bd2f7d67670e0118f0ff0d81d9254bceeec4daeeda9d2eb2fe1 449 main/binary-amd64/Packages.gz
+ 50bb2c346ed0a7442542179d8fa45dd46a2c2d7293907f2bb55614b5aa1a0e08 134 main/binary-amd64/Release
+ e5f2ac93a8661a7745a16aa1102342d204e535a063709d7b7fe15ae2ddbb6078 656 main/binary-arm64/Packages
+ 9728f2b0533c2bd2f7d67670e0118f0ff0d81d9254bceeec4daeeda9d2eb2fe1 449 main/binary-arm64/Packages.gz
+ 1506f5112b725105a0d8238b3f02469e5702d91f45823ad07766b1feb081193b 134 main/binary-arm64/Release
